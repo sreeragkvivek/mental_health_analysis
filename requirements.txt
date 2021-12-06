@@ -7,3 +7,5 @@ textblob
 python-dotenv
 praw
 wordcloud
+praw
+pyspark
